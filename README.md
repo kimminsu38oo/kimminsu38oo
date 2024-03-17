@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+account for algorithm study
+
+
 <!--
 **kimminsu38oo/kimminsu38oo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
