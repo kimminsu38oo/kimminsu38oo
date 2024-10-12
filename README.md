@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning CS, PS, kotlin
-
+- 🌱 I’m currently learning Computer science
 
 
 <!--
