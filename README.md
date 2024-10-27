@@ -1,6 +1,8 @@
 ### Hi there 👋
 
 - 🌱 I’m currently learning Computer science
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kimminsu38oo)](https://solved.ac/kimminsu38oo/)
+
 
 
 <!--
