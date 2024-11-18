@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning Computer science (Linux, RTOS, Network, system prog)
-- 🌱 I’m currently learning ARMv7
+- 🌱 I’m currently learning Computer science
 
 
 
